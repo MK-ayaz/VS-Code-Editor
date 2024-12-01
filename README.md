@@ -203,8 +203,8 @@ Comprehensive documentation is available in the `/docs` directory:
 
 For enterprise inquiries and collaboration:
 - 📧 Email: ayaz93872@gmail.com
-- 💼 LinkedIn: [Profile](https://linkedin.com/in/your-profile)
-- 🌐 Website: [Your Website](https://your-website.com)
+- 💼 LinkedIn: Coming Soon
+- 🌐 Website: Coming Soon
 
 ## License
 
